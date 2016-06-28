@@ -1,8 +1,9 @@
-// File: QCC_v.01 
+// File: QCC_Channel_Viewer 
 // Created on: 02/06/2016
 //   Author: Sergio Vigorra Treviño
 //   e-mail: svigorra@gmail.com 
-//   Description: QuadCopterController
+//   Description: programa para visualizar las señales PWM provenientes del receptor. Con este programa se obtienen los valores
+//                máximo y mínimo de cada canal, para introducirlos en el programa QCC y que éste pueda interpolar adecuadamente.
 //   Version: v0.1
 
 int Channel_1_Lower_Limit = 718;
