@@ -1,3 +1,11 @@
+// File: ESC_Calibrator 
+// Created on: 02/06/2016
+//   Author: Sergio Vigorra Treviño
+//   e-mail: svigorra@gmail.com 
+//   Description: programa para generar la señal PWM máxima y mínima del control de Throttle, para poder
+//                calibrar los reguladores.
+//   Version: v0.3
+
 int ESC_Signal_1;
 int ESC_Signal_2;
 int ESC_Signal_3;
